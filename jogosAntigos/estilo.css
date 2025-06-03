@@ -74,12 +74,6 @@ nav a {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
 }
 
-.conteudo-padrao h2 {
-  color: #00ffff;
-  margin-bottom: 15px;
-  text-shadow: 1px 1px #000;
-}
-
 .conteudo-padrao img {
   width: 100%;
   max-width: 600px;
@@ -107,3 +101,50 @@ footer a:hover {
   text-decoration: underline;
 }
 
+.space{
+  color: #15b31d;
+}
+
+.pacman{
+  color: #f3ff47;
+}
+
+.DonkeyKong{
+  color: #ce1212;
+}
+
+.supermario{
+  color: #599fe0;
+}
+
+.sublinhadosupermario{
+  background-color: #599fe0;
+  height: 3px;
+  margin-bottom: 20px;
+}
+
+.sublinhadospace{
+  background-color: #15b31d;
+  height: 3px;
+  margin-bottom: 20px;
+}
+
+.sublinhadopacman{
+  background-color: #f3ff47;
+  height: 3px;
+  margin-bottom: 20px;
+}
+
+.sublinhadodonkeykong{
+  background-color: #ce1212;
+  height: 3px;
+  margin-bottom: 20px;
+}
+
+.alinhamento{
+  text-align: justify;
+}
+
+.linha{
+  text-indent: 40px;
+}
